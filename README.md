@@ -66,7 +66,7 @@ The purpose of this application is to create a new user in the Active Directory.
 
 ## Open Mail creation window:
 - Click on "Create Mail" button and a new window will open asking for admin credential (username and password).
-- 
+
  > Before you login ensure that you have not clicked the "Clear" button as this will empty all the textboxes. The app uses the data from the FirstName, Last Name and Domain textfields.
 
 
